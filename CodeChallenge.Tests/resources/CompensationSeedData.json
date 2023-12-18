@@ -1,0 +1,27 @@
+﻿[
+  {
+    "compensationId": "25a983ae-ert3-4847-99fe-c11235e82c86f",
+    "employee": {
+      "employeeId": "16a596ae-edd3-4847-99fe-c4518e82c86f",
+      "firstName": "John",
+      "lastName": "Lennon",
+      "position": "Development Manager",
+      "department": "Engineering"
+    },
+    "salary": 120000,
+    "effectiveDate": "2023-12-18T17:54:54.3943489-05:00"
+  },
+  {
+    "compensationId": "874asd97-ert3-3231-100a-c85475e36c88z",
+    "employee": {
+      "employeeId": "470d53af-5520-414e-ab51-c546fc680ca9",
+      "firstName": "Joshua",
+      "lastName": "Kyte",
+      "position": "Software Engineer",
+      "department": "Engineering",
+      "directReports": null
+    },
+    "salary": 120000,
+    "effectiveDate": "2021-11-13T12:36:45.0000000-05:00"
+  }
+]
